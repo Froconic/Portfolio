@@ -16,15 +16,26 @@ User Acceptance Tests
 Time Estimate
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature 1: Refactor
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 9:45
 
-Finish time: _____
+Finish time: 11:20
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour 35 mins
+Add this information to your README.
+
+Number and name of feature: Feature 2: Modification
+
+Estimate of time needed to complete: 3 hour
+
+Start time: 11:30
+
+Finish time: 11:20
+
+Actual time needed to complete: 1 hour 35 mins
 Add this information to your README.
 
 Feature #1: Refactor the CSS
@@ -38,6 +49,7 @@ Then the portfolio contents should be displayed
 How are we implementing it?
 Refactor the main.css file using SMACSS principles.
 You may decide how many files to include, but at the minimum should include base.css, layout.css, and modules.css. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a modules folder, if you feel that the code needs to be organized in that manner.
+
 Feature #2: Modify the contents
 Why are we implementing this feature?
 As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
